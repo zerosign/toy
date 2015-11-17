@@ -1,0 +1,8 @@
+(* OASIS_START *)
+(* DO NOT EDIT (digest: fe1088d0dae4050edec5f38f424018cf) *)
+
+Authors of toy:
+
+* zerosign
+
+(* OASIS_STOP *)
